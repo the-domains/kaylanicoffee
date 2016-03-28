@@ -1,4 +1,4 @@
-name: kaylanicoffee
+name: Kaylani Coffee
 favicon: null
 layout_spectrum: 0.37802697834558785
 typography_spectrum: 0.812144641764462
@@ -22,8 +22,8 @@ color:
     - '#31262b'
     - '#8f4526'
     - '#e8ab49'
-  brandStrength: 0.9375
-  lightness: 0.2075881976634264
-  saturation: 0.918672077357769
-  rhythmicContrast: 0.6889964996371418
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []

@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kaylanicoffee]]></title>
         <description><![CDATA[kaylanicoffee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kaylanicoffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 20:13:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 23:27:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kaylanicoffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>1844 N. El Camino Real,</p>]]></description>
+            <link>https://thegrid.ai/kaylanicoffee/1844-n-el-camino-real/index.html</link>
+            <guid isPermaLink="false">fbc59aed-9f0c-4f01-958c-dba00e1126df</guid>
+            <pubDate>Mon, 28 Mar 2016 23:27:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa5f2075-eb06-4d4a-9c8f-0867bc485e6e.jpg">]]></description>
-            <link>undefined7c46783c-9713-4e27-b375-784654845929/index.html</link>
+            <link>https://thegrid.ai/kaylanicoffee/7c46783c-9713-4e27-b375-784654845929/index.html</link>
             <guid isPermaLink="false">7c46783c-9713-4e27-b375-784654845929</guid>
             <pubDate>Mon, 28 Mar 2016 20:13:19 GMT</pubDate>
         </item>

@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: '1844 N. El Camino Real,'
-datePublished: '2016-03-28T23:49:57.332Z'
-dateModified: '2016-03-28T23:49:57.007Z'
+datePublished: '2016-03-28T23:51:35.238Z'
+dateModified: '2016-03-28T23:51:34.706Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-28-1844-n-el-camino-real.md
@@ -27,3 +27,4 @@ _type: Article
 San Clemente, Ca 92672
 
 949-492-5016
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36002f03-023c-481e-bcbf-50c6a2db8636.jpg)

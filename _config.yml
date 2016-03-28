@@ -1,0 +1,28 @@
+name: kaylanicoffee
+favicon: null
+layout_spectrum: 0.37802697834558785
+typography_spectrum: 0.812144641764462
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8762076203711331
+  lightness: 0.2075881976634264
+  saturation: 0.918672077357769
+  rhythmicContrast: 0.6889964996371418
+purpose: []

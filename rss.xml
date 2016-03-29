@@ -4,8 +4,15 @@
         <description><![CDATA[Kaylani Coffee]]></description>
         <link>https://thegrid.ai/kaylanicoffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 00:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 00:14:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kaylanicoffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>1844 N. El Camino Real</p>]]></description>
+            <link>https://thegrid.ai/kaylanicoffee/1844-n-el-camino-real/index.html</link>
+            <guid isPermaLink="false">f850ad0e-9ddc-4784-a2be-a167c0991793</guid>
+            <pubDate>Tue, 29 Mar 2016 00:13:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>KTLA News "Best Coffee Bar in Town"</p>]]></description>

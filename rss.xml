@@ -2,28 +2,28 @@
     <channel>
         <title><![CDATA[Kaylani Coffee]]></title>
         <description><![CDATA[Kaylani Coffee]]></description>
-        <link>https://thegrid.ai/kaylanicoffee/</link>
+        <link>http://kaylanicoffee.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 01:14:37 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/kaylanicoffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 01:40:29 GMT</lastBuildDate>
+        <atom:link href="http://kaylanicoffee.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>1844 N. El Camino Real</p>]]></description>
-            <link>https://thegrid.ai/kaylanicoffee/1844-n-el-camino-real/index.html</link>
+            <description><![CDATA[<p>Kaylani Coffee</p>]]></description>
+            <link>http://kaylanicoffee.com/1844-n-el-camino-real/index.html</link>
             <guid isPermaLink="false">68d4c598-0928-418d-8891-6cab5032ea70</guid>
-            <pubDate>Tue, 29 Mar 2016 01:09:46 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 01:40:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aa0a787-4dff-48be-90cb-57995f45f472.jpg">]]></description>
-            <link>https://thegrid.ai/kaylanicoffee/authentic-hawaiian-shave-ice/index.html</link>
+            <link>http://kaylanicoffee.com/authentic-hawaiian-shave-ice/index.html</link>
             <guid isPermaLink="false">89036e82-d3e9-4791-993f-ef98933e80c1</guid>
             <pubDate>Tue, 29 Mar 2016 01:14:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>KTLA "Best Coffee House"</p>]]></description>
-            <link>https://thegrid.ai/kaylanicoffee/ktla-best-coffee-house/index.html</link>
+            <link>http://kaylanicoffee.com/ktla-best-coffee-house/index.html</link>
             <guid isPermaLink="false">6ebcdcc0-ebb0-401f-b186-277250bfe6d7</guid>
             <pubDate>Tue, 29 Mar 2016 00:56:08 GMT</pubDate>
         </item>

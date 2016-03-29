@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kaylani Coffee]]></title>
         <description><![CDATA[Kaylani Coffee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kaylanicoffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 00:56:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 00:57:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kaylanicoffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46b09c97-01dd-4d72-bc0b-55080e04200f.jpg">]]></description>
+            <link>https://thegrid.ai/kaylanicoffee/authentic-hawaiian-shave-ice/index.html</link>
+            <guid isPermaLink="false">89036e82-d3e9-4791-993f-ef98933e80c1</guid>
+            <pubDate>Tue, 29 Mar 2016 00:57:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>KTLA "Best Coffee House"</p>]]></description>
-            <link>undefinedktla-best-coffee-house/index.html</link>
+            <link>https://thegrid.ai/kaylanicoffee/ktla-best-coffee-house/index.html</link>
             <guid isPermaLink="false">6ebcdcc0-ebb0-401f-b186-277250bfe6d7</guid>
             <pubDate>Tue, 29 Mar 2016 00:56:08 GMT</pubDate>
         </item>

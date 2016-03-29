@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 1844 N. El Camino Real
-datePublished: '2016-03-29T00:13:56.678Z'
-dateModified: '2016-03-29T00:13:15.662Z'
+datePublished: '2016-03-29T00:59:16.634Z'
+dateModified: '2016-03-29T00:59:03.811Z'
 title: ''
 author: []
 authors: []
@@ -24,13 +24,13 @@ _type: Article
 ---
 1844 N. El Camino Real
 
-San Clemente, Ca 92672
+San Clemente, Ca 92672 
 
 949-492-5016
 
-Hours of Operation
+Hours of Operations (Seasonal)
 
-M-F 6:30-5:00
+M-F  6:30-5:00
 
-S-S  7:00- 5:00
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4066cac6-27c2-4ab0-84a2-e2b5ebefcde7.jpg)
+S-S   7:00-5:00
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94d0533d-f5a2-4ed7-9008-96409ec4d5ec.jpg)

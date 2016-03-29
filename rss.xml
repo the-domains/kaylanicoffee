@@ -4,8 +4,15 @@
         <description><![CDATA[Kaylani Coffee]]></description>
         <link>https://thegrid.ai/kaylanicoffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 01:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 01:03:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kaylanicoffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>1844 N. El Camino Real</p>]]></description>
+            <link>https://thegrid.ai/kaylanicoffee/1844-n-el-camino-real/index.html</link>
+            <guid isPermaLink="false">68d4c598-0928-418d-8891-6cab5032ea70</guid>
+            <pubDate>Tue, 29 Mar 2016 01:03:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46b09c97-01dd-4d72-bc0b-55080e04200f.jpg">]]></description>

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'KTLA News "Best Coffee Bar in Town"'
-datePublished: '2016-03-29T00:20:58.612Z'
-dateModified: '2016-03-29T00:20:37.458Z'
+datePublished: '2016-03-29T00:40:39.790Z'
+dateModified: '2016-03-29T00:40:13.031Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-29-ktla-news-best-coffee-bar-in-town.md
@@ -23,5 +23,5 @@ _type: Article
 
 ---
 KTLA News "Best Coffee Bar in Town"
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75332879-6f18-457e-a5f9-fb7969634f1e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7dac0899-f83d-4765-9f9c-f32ae996e60f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8aae52da-74b6-4078-919c-df9f64aeb52f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3111e7f0-4d64-492c-be58-3f4188834a97.png)

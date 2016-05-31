@@ -1,6 +1,6 @@
 name: Kaylani Coffee
 favicon: null
-layout_spectrum: 0.24609
+layout_spectrum: 0.7515
 typography_spectrum: 0.24729
 title: Kaylani Coffee
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f1592a'
     - '#ffffff'
-    - '#f79862'
-    - '#00adef'
-    - '#231f20'
+    - '#0269ba'
+    - '#31262b'
+    - '#8f4526'
+    - '#e8ab49'
   brandStrength: 0
   lightness: 0.375
   saturation: 0.5

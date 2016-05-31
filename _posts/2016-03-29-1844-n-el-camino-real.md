@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Proudly serving San Clemente authentic Hawaiian shave ice, nitrogen ice cream, espresso & blended drinks, and smoothies!'
-datePublished: '2016-05-31T05:42:44.141Z'
-dateModified: '2016-05-31T05:42:43.216Z'
+datePublished: '2016-05-31T06:29:44.374Z'
+dateModified: '2016-05-31T05:43:13.122Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-29-1844-n-el-camino-real.md

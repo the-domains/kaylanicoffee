@@ -7,18 +7,18 @@ keywords: []
 description: >-
   Proudly serving San Clemente authentic Hawaiian shave ice, nitrogen ice cream,
   espresso & blended drinks, and smoothies!
-datePublished: '2016-08-16T21:09:34.498Z'
-dateModified: '2016-08-16T21:09:34.009Z'
+datePublished: '2016-08-16T22:18:06.129Z'
+dateModified: '2016-08-16T22:17:20.586Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-29-1844-n-el-camino-real.md
+via: {}
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-via: {}
 starred: true
 url: 1844-n-el-camino-real/index.html
 _type: Article
@@ -26,7 +26,7 @@ _type: Article
 ---
 Proudly serving San Clemente authentic Hawaiian shave ice, nitrogen ice cream, espresso & blended drinks, and smoothies!
 
-Kaylani Coffee
+**Kaylani Coffee & Nitrogen Ice Cream**
 
 1844 N. El Camino Real
 
